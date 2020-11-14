@@ -23,7 +23,7 @@
         <dependency>
             <groupId>com.github.Paul-Kielty</groupId>
             <artifactId>CT417_assignment1</artifactId>
-            <version>9f3ffd0acd</version>
+            <version>9929840975</version>
         </dependency>
     </dependencies>
     <properties>
